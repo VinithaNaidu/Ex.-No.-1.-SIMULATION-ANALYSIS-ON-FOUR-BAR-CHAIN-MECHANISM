@@ -53,10 +53,10 @@
 
 
 ## Output:
+![output](https://user-images.githubusercontent.com/119393424/240235134-b696cf73-f5ad-43a0-9929-ebf212d5db15.png)
 
-
-### Name:
-### Register Number: 
+### Name:D. Vinitha Naidu
+### Register Number:212222230175
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
